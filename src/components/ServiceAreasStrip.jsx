@@ -1,0 +1,3 @@
+import { Link } from 'react-router-dom';
+import { serviceAreas } from '../data/site';
+export default function ServiceAreasStrip(){return <section className="service-area-strip"><div className="container"><span className="eyebrow">SERVICE COVERAGE</span><h2>Doorstep Service From Nalasopara to Borivali</h2><p>Our primary base is Nalasopara East. Service availability in other areas depends on the appliance, technician schedule and exact location.</p><div className="area-chips">{serviceAreas.map(a=><span key={a.name}>{a.name}</span>)}</div><Link className="text-link" to="/service-areas">View service area details <i className="fa-solid fa-arrow-right"/></Link></div></section>}

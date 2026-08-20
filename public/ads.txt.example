@@ -1,0 +1,3 @@
+# Replace PUB_ID with the real publisher number from your approved AdSense account.
+# Do NOT upload this example as ads.txt until the publisher ID is known.
+google.com, pub-PUB_ID, DIRECT, f08c47fec0942fa0

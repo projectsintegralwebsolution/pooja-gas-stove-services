@@ -1,0 +1,26 @@
+POOJA GAS STOVE SERVICES - FINAL HOSTINGER READY
+
+No source-code editing is required.
+
+LOCAL CHECK
+1. Open this extracted folder in VS Code.
+2. Run: npm install
+3. Run: npm run build
+4. Run: npm run dev
+
+HOSTINGER
+Framework: Express
+Node: 22.x
+Root directory: ./
+Build command: npm run build
+Start command: npm start
+
+Hostinger Environment Variables:
+NODE_ENV=production
+MAIL_USER=integralwebsolution@gmail.com
+MAIL_APP_PASSWORD=<your real Gmail app password>
+ADMIN_EMAILS=poojagasstoveservice@gmail.com,princekumarjha80@gmail.com
+ALLOWED_ORIGINS=https://YOUR-DOMAIN
+
+Do not add PORT manually on Hostinger.
+Do not commit Gmail App Password to GitHub.

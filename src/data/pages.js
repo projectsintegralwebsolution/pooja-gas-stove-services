@@ -1,0 +1,160 @@
+const areas = 'Nalasopara, Virar, Vasai, Naigaon, Bhayandar, Mira Road, Dahisar, Borivali and suitable locations in Palghar district';
+
+export const pageContent = {
+  'gas-stove-repair': {
+    h1: 'Gas Stove Repair & Service in Nalasopara and Nearby Areas',
+    seoTitle: 'Gas Stove Repair in Nalasopara, Virar & Vasai | Pooja Gas Stove Services',
+    meta: 'Doorstep gas stove repair in Nalasopara, Virar, Vasai and nearby areas. Burner, ignition, gas-flow, cleaning and appliance inspection support.',
+    keywords: 'gas stove repair Nalasopara, gas stove repair Virar, gas stove repair Vasai, gas stove service near me, gas burner repair, LPG stove repair',
+    intro: `When a gas stove starts giving an uneven flame, takes longer to ignite, or a burner stops working as expected, everyday cooking becomes difficult. Pooja Gas Stove Services provides doorstep gas stove inspection, repair and servicing across ${areas}, subject to technician availability.`,
+    body: 'We begin with a practical inspection of the appliance and the problem you are experiencing. Depending on the stove and condition, service may involve burner cleaning, ignition checks, knob or gas-flow inspection, connection checks and other serviceable components. We avoid unnecessary replacement recommendations and focus on the work that is relevant to the appliance condition.',
+    h2: 'Common Gas Stove Problems We Inspect',
+    items: ['Gas stove inspection','Uneven or weak burner flame','Burner cleaning and servicing','Ignition-related problems','Gas flow-related inspection','Knob and control checks','Gas connection inspection','Routine gas stove servicing','Suitable LPG appliance support'],
+    extraHeading: 'Doorstep Gas Stove Service Across the Western Suburbs and Palghar Belt',
+    extra: 'Our service base is in Nalasopara East. Customers from Virar, Vasai, Naigaon, Bhayandar, Mira Road, Dahisar and Borivali can contact us to confirm service availability for their exact location. Travel time and technician availability can vary, so urgent-service claims are always confirmed before a visit is scheduled.'
+  },
+  'hob-repair': {
+    h1: 'Built-in Hob Repair & Service in Nalasopara, Virar and Vasai',
+    seoTitle: 'Built-in Hob Repair in Nalasopara, Virar & Vasai | Doorstep Service',
+    meta: 'Built-in hob repair and service for ignition, burner, gas-flow and maintenance issues across Nalasopara, Virar, Vasai and nearby service areas.',
+    keywords: 'hob repair Nalasopara, built in hob repair Virar, hob service Vasai, gas hob ignition repair, hob burner service',
+    intro: `Built-in hobs are designed to sit neatly within the kitchen counter, which makes professional inspection especially useful when a burner or ignition system develops a problem. We provide built-in hob repair and servicing across ${areas}.`,
+    body: 'A hob issue may be related to ignition, burner ports, gas flow, controls, connections or routine build-up around serviceable components. We inspect the appliance first and then explain the suitable repair or maintenance requirement before work is carried out.',
+    h2: 'Built-in Hob Service Assistance',
+    items: ['Built-in hob inspection','Hob burner service','Ignition inspection and repair','Gas-flow related checks','Gas cleaning','Connection inspection','General hob maintenance'],
+    extraHeading: 'Service for Modern Domestic Kitchens',
+    extra: 'Built-in hobs vary by brand, layout and ignition design. Availability of parts and repair feasibility can differ between models. Share the hob type and issue when you call so we can advise whether an inspection visit is appropriate.'
+  },
+  'chimney-service': {
+    h1: 'Kitchen Chimney Repair, Cleaning & Service',
+    seoTitle: 'Kitchen Chimney Service in Nalasopara, Virar & Vasai | Cleaning & Repair',
+    meta: 'Kitchen chimney cleaning, inspection and service in Nalasopara, Virar, Vasai and nearby areas for suitable residential and commercial kitchens.',
+    keywords: 'chimney service Nalasopara, chimney cleaning Virar, kitchen chimney repair Vasai, chimney maintenance Mira Road',
+    intro: `Kitchen chimneys collect grease, smoke residue and cooking deposits over time. We provide chimney cleaning, inspection and service assistance for suitable residential kitchens and selected commercial requirements across ${areas}.`,
+    body: 'Regular maintenance can help keep airflow and extraction performance consistent. During a service visit, the technician can inspect accessible components, assess visible grease build-up and identify common operating issues. The exact scope depends on the chimney type and condition.',
+    h2: 'Kitchen Chimney Services',
+    items: ['Chimney inspection','Chimney cleaning','Routine chimney servicing','Common operating issue diagnosis','Filter and accessible component checks','Maintenance guidance'],
+    extraHeading: 'When Should You Consider Chimney Service?',
+    extra: 'Unusual noise, reduced smoke extraction, visible grease accumulation or long gaps between cleaning are common reasons to arrange an inspection. Electrical faults or internal motor issues may require model-specific repair assessment.'
+  },
+  'gas-cleaning': {
+    h1: 'Gas Stove & Burner Cleaning Services',
+    seoTitle: 'Gas Stove Cleaning in Nalasopara & Virar | Burner Cleaning Service',
+    meta: 'Gas stove and burner cleaning service in Nalasopara, Virar, Vasai and nearby areas for routine maintenance and performance-related cleaning.',
+    keywords: 'gas stove cleaning Nalasopara, burner cleaning service Virar, gas cleaning Vasai, stove maintenance',
+    intro: `Grease, food residue and deposits around burner components can affect day-to-day stove performance. We provide gas stove and burner cleaning services across ${areas}.`,
+    body: 'The service is intended for routine cleaning and maintenance of accessible stove components. If the appliance also has an ignition, gas-flow or connection problem, the technician can inspect the issue and advise whether additional repair work is appropriate.',
+    h2: 'Cleaning & Maintenance Can Include',
+    items: ['Burner cleaning','Gas stove surface and component cleaning','Accessible component inspection','Routine maintenance','Performance-related checks'],
+    extraHeading: 'Cleaning Is Maintenance, Not a Substitute for Repair',
+    extra: 'If you notice a gas smell, damaged hose, unusual flame behaviour or another safety concern, stop using the appliance and arrange a proper inspection rather than relying on cleaning alone.'
+  },
+  'cooking-range-service': {
+    h1: 'Cooking Range Repair & Service for Homes and Commercial Kitchens',
+    seoTitle: 'Cooking Range Repair in Nalasopara, Vasai & Virar | Pooja Gas Stove Services',
+    meta: 'Cooking range repair and service for suitable domestic and commercial kitchens across Nalasopara, Virar, Vasai and nearby areas.',
+    keywords: 'cooking range repair Nalasopara, cooking range service Virar, commercial cooking range repair Vasai',
+    intro: `Cooking ranges are used in larger home kitchens, restaurants and other commercial environments. We provide inspection, repair and maintenance assistance for suitable gas-based cooking ranges across ${areas}.`,
+    body: 'Because cooking ranges differ significantly in size and configuration, we first confirm the appliance type and problem. Service may include burner-related work, ignition checks, cleaning, connection inspection and general maintenance where applicable.',
+    h2: 'Cooking Range Service Assistance',
+    items: ['Cooking range inspection','Burner service','Ignition-related checks','Cleaning','Connection inspection','General maintenance'],
+    extraHeading: 'Domestic and Selected Commercial Requirements',
+    extra: 'For commercial equipment, share basic appliance details before booking. This helps determine whether the equipment falls within our supported service scope.'
+  },
+  'gas-pipeline-installation': {
+    h1: 'Gas Pipeline Installation & Fitting for Kitchen LPG Setups',
+    seoTitle: 'Gas Pipeline Installation in Nalasopara, Virar & Vasai | LPG Fitting Service',
+    meta: 'Gas pipeline installation and fitting assistance for suitable kitchen LPG setups in Nalasopara, Virar, Vasai and nearby service areas.',
+    keywords: 'gas pipeline installation Nalasopara, LPG pipeline fitting Virar, gas pipeline service Vasai, kitchen gas fitting',
+    intro: `A kitchen gas pipeline should be planned around the appliance position, connection points and the specific LPG setup. We provide gas pipeline installation and fitting assistance for suitable requirements across ${areas}.`,
+    body: 'Before work begins, the proposed route and appliance connection are inspected. The exact materials, fittings and installation approach depend on the site condition and applicable safety requirements. We do not recommend improvised or temporary gas-line arrangements.',
+    h2: 'Pipeline & Connection Assistance',
+    items: ['Gas pipeline installation','Gas pipeline fitting','Appliance connection assistance','Pipeline inspection','Connection checks','Gas leakage inspection'],
+    extraHeading: 'Gas Work Should Be Treated as Safety-Critical',
+    extra: 'Do not attempt to modify a gas line while the supply is active. If you already suspect a leak, stop using the affected appliance and arrange an inspection before proceeding with other work.'
+  },
+  'gas-leakage-inspection': {
+    h1: 'Gas Leakage Inspection for LPG Kitchen Appliances',
+    seoTitle: 'Gas Leakage Inspection in Nalasopara, Virar & Vasai | LPG Connection Check',
+    meta: 'Gas leakage inspection for LPG appliances, regulators, connections and pipelines in Nalasopara, Virar, Vasai and nearby areas.',
+    keywords: 'gas leakage inspection Nalasopara, LPG leak check Virar, gas connection inspection Vasai, gas leak service',
+    intro: `If you suspect a gas leak from an appliance, regulator, hose, fitting or pipeline, treat it as a safety issue. We provide inspection assistance across ${areas} to identify possible sources around supported LPG kitchen systems.`,
+    body: 'If you smell gas, avoid flames, smoking and electrical switching near the suspected area. Where it is safe to do so, close the gas supply and ventilate the area, then contact the appropriate emergency or qualified service support. Our service focuses on inspection and identifying possible appliance or connection-related causes so suitable corrective action can be recommended.',
+    h2: 'Leak Inspection Can Cover',
+    items: ['Appliance connection inspection','Regulator inspection','Accessible hose and fitting checks','Pipeline inspection','Possible leak-source identification','Corrective service guidance'],
+    extraHeading: 'Do Not Continue Using an Appliance You Believe Is Leaking',
+    extra: 'A website cannot diagnose a gas leak remotely. If there is an immediate danger, move away from the source and contact the appropriate local emergency service or gas provider rather than waiting for a routine repair appointment.'
+  },
+  'gas-regulator-repair': {
+    h1: 'Gas Regulator Inspection & Repair Service',
+    seoTitle: 'Gas Regulator Repair in Nalasopara & Virar | LPG Regulator Inspection',
+    meta: 'Gas regulator inspection and repair assistance in Nalasopara, Virar, Vasai and nearby areas for suitable LPG kitchen setups.',
+    keywords: 'gas regulator repair Nalasopara, LPG regulator service Virar, gas regulator inspection Vasai',
+    intro: `The regulator controls gas supply from the cylinder or source to the appliance. If appliance performance changes or a regulator-related problem is suspected, we provide inspection and service assistance across ${areas}.`,
+    body: 'The technician can inspect the regulator connection and related accessible components and advise whether servicing, correction or replacement is appropriate. Replacement suitability depends on the LPG setup and regulator type.',
+    h2: 'Regulator Service Assistance',
+    items: ['Regulator inspection','Connection check','Repair assessment','Replacement requirement assessment','LPG system inspection'],
+    extraHeading: 'Avoid Temporary Fixes on LPG Connections',
+    extra: 'Because regulators and LPG connections are safety-critical, damaged or unsuitable components should not be patched or modified as a temporary workaround.'
+  },
+  'ignition-repair': {
+    h1: 'Gas Stove & Built-in Hob Ignition Repair',
+    seoTitle: 'Gas Stove Ignition Repair in Nalasopara, Virar & Vasai | Hob Ignition Service',
+    meta: 'Gas stove and built-in hob ignition repair across Nalasopara, Virar, Vasai and nearby service areas with doorstep inspection support.',
+    keywords: 'gas stove ignition repair Nalasopara, hob ignition repair Virar, auto ignition service Vasai, stove spark repair',
+    intro: `A stove or hob that clicks without lighting, lights inconsistently or has stopped sparking may need an ignition-system inspection. We provide ignition repair assistance across ${areas}.`,
+    body: 'Ignition problems can have different causes depending on the appliance design. We inspect serviceable ignition components and surrounding burner areas to identify the likely issue before recommending repair work.',
+    h2: 'Ignition Service Can Include',
+    items: ['Ignition system inspection','Gas stove ignition repair','Built-in hob ignition checks','Related component inspection','Burner-area cleaning where applicable'],
+    extraHeading: 'Tell Us Whether the Problem Is on One Burner or the Whole Appliance',
+    extra: 'This small detail can help narrow down the likely service requirement when you call and can make the visit easier to plan.'
+  },
+  'lpg-appliance-repair': {
+    h1: 'LPG Kitchen Appliance Repair & Service',
+    seoTitle: 'LPG Appliance Repair in Nalasopara, Virar, Vasai & Mira Road',
+    meta: 'Doorstep LPG kitchen appliance repair for gas stoves, hobs, cooktops, regulators, pipelines and related service needs across nearby areas.',
+    keywords: 'LPG appliance repair Nalasopara, gas appliance repair Virar, LPG service Vasai, gas cooktop repair Mira Road',
+    intro: `Pooja Gas Stove Services provides repair and servicing assistance for a range of gas-based kitchen appliances across ${areas}.`,
+    body: 'Our supported work includes gas stove and hob service, cooking range assistance, regulator and connection inspection, ignition repair, cleaning and suitable gas pipeline work. Service scope depends on the appliance, condition and availability of appropriate components.',
+    h2: 'LPG Appliance Services',
+    items: ['Gas stove repair','Gas hob repair','Gas cooktop service','Cooking range service','Gas regulator inspection','Gas pipeline fitting','Ignition repair','Gas leakage inspection','Gas cleaning'],
+    extraHeading: 'One Contact for Common Gas-Based Kitchen Service Needs',
+    extra: 'If you are unsure which service category applies, describe the appliance and the problem when you contact us. We can help identify the most relevant inspection or service type.'
+  },
+  'commercial-kitchen-service': {
+    h1: 'Commercial Kitchen Gas Appliance Repair & Service',
+    seoTitle: 'Commercial Kitchen Gas Appliance Service in Nalasopara, Vasai & Virar',
+    meta: 'Commercial kitchen gas appliance inspection, repair, cleaning and maintenance assistance across Nalasopara, Vasai, Virar and nearby areas.',
+    keywords: 'commercial kitchen repair Nalasopara, commercial gas stove service Vasai, restaurant cooking range repair Virar',
+    intro: `Restaurants, food businesses and other commercial kitchens depend on reliable cooking equipment. We provide service assistance for suitable gas-based commercial kitchen appliances across ${areas}.`,
+    body: 'Commercial equipment can be larger and more varied than domestic appliances. We therefore confirm the appliance type, basic configuration and problem before arranging a visit. Supported work may include inspection, burner service, cleaning, ignition-related assistance and routine maintenance.',
+    h2: 'Commercial Kitchen Service Scope',
+    items: ['Gas cooking equipment inspection','Repair assessment','Burner service','Ignition checks','Cleaning','Routine maintenance'],
+    extraHeading: 'Share Equipment Details Before Booking',
+    extra: 'A photo, model detail or short description of the equipment can help determine whether it falls within our service scope before a technician travels to the site.'
+  },
+  'annual-maintenance': {
+    h1: 'Annual Maintenance for Gas Stoves, Hobs & LPG Kitchen Appliances',
+    seoTitle: 'Gas Appliance Annual Maintenance in Nalasopara, Virar & Vasai | AMC Service',
+    meta: 'Routine annual maintenance assistance for gas stoves, hobs, cooking ranges and LPG kitchen appliances across Nalasopara, Virar and Vasai.',
+    keywords: 'gas stove AMC Nalasopara, annual maintenance gas appliances Virar, hob maintenance Vasai, LPG appliance maintenance',
+    intro: `Regular maintenance can help identify wear, build-up or service issues before they become more disruptive. We offer maintenance assistance for suitable kitchen appliances and LPG-related systems across ${areas}.`,
+    body: 'Depending on the appliance, maintenance may include inspection, cleaning, burner checks, ignition inspection, connection checks and other relevant service tasks. The maintenance scope is agreed based on the appliances included and their condition.',
+    h2: 'Typical Maintenance Checks',
+    items: ['Appliance inspection','Burner cleaning and checks','Ignition inspection','Gas connection inspection','Routine cleaning','Applicable maintenance support'],
+    extraHeading: 'Useful for Homes, Rental Properties and Commercial Kitchens',
+    extra: 'Maintenance is especially useful where appliances are used frequently or where several gas-based kitchen appliances need periodic checking.'
+  },
+  'kitchen-appliance-service': {
+    h1: 'Kitchen Appliance Repair & Service for Gas-Based Cooking Equipment',
+    seoTitle: 'Kitchen Appliance Repair in Nalasopara, Virar & Vasai | Gas Stove, Hob & Chimney',
+    meta: 'Kitchen appliance repair for gas stoves, hobs, cooktops, chimneys, cooking ranges and LPG systems across Nalasopara, Virar and nearby areas.',
+    keywords: 'kitchen appliance repair Nalasopara, gas appliance service Virar, hob chimney repair Vasai, kitchen service near me',
+    intro: `Many kitchens rely on several connected gas-based appliances and components. We provide specialized service assistance across ${areas} for common repair, maintenance and inspection requirements.`,
+    body: 'Our service categories include gas stoves, built-in hobs, gas cooktops, chimneys, cooking ranges and LPG appliances. Supporting services include gas cleaning, ignition repair, gas leakage inspection, regulator service and suitable gas pipeline fitting.',
+    h2: 'Kitchen Equipment We Support',
+    items: ['Gas stoves','Built-in hobs','Gas cooktops','Kitchen chimneys','Cooking ranges','LPG appliances','Gas cleaning','Ignition repair','Gas pipeline fitting'],
+    extraHeading: 'Not Sure Which Service You Need?',
+    extra: 'Tell us the appliance type, the problem you are seeing and your location. We can help you identify the most relevant service category before arranging a visit.'
+  }
+};
