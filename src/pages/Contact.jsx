@@ -46,6 +46,14 @@ export default function Contact() {
         throw new Error(data.message || 'Unable to send your enquiry. Please try again.');
       }
 
+if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+  window.gtag('event', 'conversion', {
+    send_to: 'AW-18402298139/Qu2RCK62weUcEJuS88ZE',
+    value: 1.0,
+    currency: 'INR',
+  });
+}
+
       setStatus({
         type: 'success',
         message: data.message || 'Thank you. Your enquiry has been sent successfully.',
